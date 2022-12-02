@@ -4,6 +4,9 @@
 I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
 </p>
 
+<br />
+
+
 <h3 > 🌐 Socials: </h3 > 
 
 <a href="https://www.linkedin.com/in/nisar1406/">
