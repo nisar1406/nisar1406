@@ -4,7 +4,7 @@
 I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
 </p>
 
-# 🌐 Socials:
+<h3 > 🌐 Socials: </h3 > 
 
 <a href="https://www.linkedin.com/in/nisar1406/">
   <img align="left" alt="Nisar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -24,7 +24,7 @@ I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
   <br />
   
 
-# 💻 My Tech Stack:
+<h3 > 💻 My Tech Stack:</h3 > 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
