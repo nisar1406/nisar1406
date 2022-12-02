@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋</h3>
 
-<p align="center">
+<p>
 I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
 </p>
 
@@ -15,10 +15,6 @@ I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
 <a href="https://discord.gg/3XnGJEgM">
   <img align="left" alt="Nisar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Nisar Shaikh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=nisar1406)
 
 <br />
@@ -26,14 +22,14 @@ I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
 </h4>
 
 <br/>
-<h3 align="center">
+<h3>
 My Tech Stacks
 </h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://nodejs.org/static/images/logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg"></code>
