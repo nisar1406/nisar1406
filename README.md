@@ -18,7 +18,8 @@ I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
 <a href="https://discord.gg/3XnGJEgM">
   <img align="left" alt="Nisar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=nisar1406)
+  ![](https://visitor-badge.glitch.me/badge?page_id=nisar1406)
+
 
 <br/>
 <h3>
