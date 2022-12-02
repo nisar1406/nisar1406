@@ -6,7 +6,18 @@ I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisar1406) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nisar1406) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/3XnGJEgM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nisar1406__) 
+<a href="https://www.linkedin.com/in/nisar1406/">
+  <img align="left" alt="Nisar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://nisar1406.medium.com/">
+  <img align="left" alt="Nisar's Medium" width="22px" src="https://miro.medium.com/fit/c/96/96/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" />
+</a>
+<a href="https://www.instagram.com/nisar1406__/">
+  <img align="left" alt="Nisar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/3XnGJEgM">
+  <img align="left" alt="Nisar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=nisar1406)
 
 <br/>
