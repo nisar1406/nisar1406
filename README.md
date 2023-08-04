@@ -1,7 +1,7 @@
 <h3 > Hi there 👋</h3>
 
 <p>
-I'm Nisar, a self-motivated tech enthusiast and full stack web developer 💻.
+I'm Nisar, a self-motivated tech enthusiast, and full-stack web developer 💻.
 </p>
 
 <br />
