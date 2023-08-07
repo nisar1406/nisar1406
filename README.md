@@ -19,7 +19,7 @@ I'm Nisar, a self-motivated tech enthusiast, and full-stack web developer 💻.
   <img align="left" alt="Nisar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/3XnGJEgM">
-  <img align="left" alt="Nisar's Discord" width="22px" src="	https://www.svgrepo.com/show/353655/discord-icon.svg" />
+  <img align="left" alt="Nisar's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=nisar1406)
