@@ -10,7 +10,7 @@ I'm Nisar, a self-motivated tech enthusiast, and full-stack web developer 💻.
 <h3 > 🌐 Socials: </h3 > 
 
 <a href="https://www.linkedin.com/in/nisar1406/">
-  <img align="left" alt="Nisar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Nisar's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://nisar1406.medium.com/">
   <img align="left" alt="Nisar's Medium" width="22px" src="https://miro.medium.com/fit/c/96/96/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" />
